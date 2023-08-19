@@ -54,3 +54,12 @@ Your feedback is crucial to the improvement of socket-package. If you encounter 
 Reporting Issues: Please use the GitHub issues page to report any issues you encounter.
 Contributions: We welcome contributions! Please feel free to fork the repository, make your changes, and submit a pull request.
 Thank you for your support!
+
+
+"keywords": [
+    "socket",
+    "socket.io",
+    "socket.io-client",
+    "socket.io-client-wrapper",
+    "socket.io-client
+]
