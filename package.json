@@ -54,5 +54,12 @@
   "dependencies": {
     "socket.io": "^4.7.1",
     "socket.io-client": "^4.7.1"
-  }
+  }, 
+  "keywords": [
+    "socket",
+    "socket.io",
+    "socket.io-client",
+    "socket.io-client-wrapper",
+    "socket.io-client"
+  ]
 }
