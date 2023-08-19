@@ -49,7 +49,7 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ## Issues and Contributions
 
-Your feedback is crucial to the improvement of socket-package. If you encounter any issues or have suggestions for improvements: 
+Your feedback is crucial to the improvement of socket-package. If you encounter any issues or have suggestions for improvements, please feel free to reach out to us, We also welcome contributions to the project [here](https://github.com/Rishit30G/socket-package).
 
 Reporting Issues: Please use the GitHub issues page to report any issues you encounter.
 Contributions: We welcome contributions! Please feel free to fork the repository, make your changes, and submit a pull request.
