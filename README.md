@@ -1,6 +1,6 @@
 ## Description
 
-socket-package is a lightweight and efficient utility designed for establishing and handling socket connections with ease. Built on top of the popular socket.io-client, this package simplifies the process of initializing socket instances, handling incoming messages, and managing sessions. Whether you're building a chat application, real-time data dashboard, or any other system that relies on websockets, socket-package is here to make your development process smoother.
+Socket-package is a lightweight and efficient utility designed for establishing and handling socket connections with ease. Built on top of the popular socket.io-client, this package simplifies the process of initializing socket instances, handling incoming messages, and managing sessions. Whether you're building a chat application, real-time data dashboard, or any other system that relies on websockets, socket-package is here to make your development process smoother.
 
 ## Installation 
 
@@ -14,8 +14,10 @@ npm install socket-package
 import { UCI } from 'socket-package';
 
 const url = 'YOUR_SOCKET_URL';
-const socketOptions = {}; // Your socket.io options
-const callback = (message) => {
+// Socket Options con have key-value pairs such as 
+// reconnection: true, reconnectionDelay: 1000, timeout: 10000, etc.
+const socketOptions = {};
+const onReceiveMessage = (message) => {
    console.log("Received message: ", message);
 };
 

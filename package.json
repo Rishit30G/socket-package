@@ -60,6 +60,8 @@
     "socket.io",
     "socket.io-client",
     "socket.io-client-wrapper",
-    "socket.io-client"
+    "socket.io-client",
+    "uci-connection",
+    "uci"
   ]
 }
